@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 body {
     color: white;
     background-color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Merriweather', serif;
     margin: 0;
     padding: 0;
     background: linear-gradient(145deg, #1e1e1e, #2c2c2c);
@@ -168,7 +170,7 @@ section h3 {
 .projetos-bg {
     background: linear-gradient(145deg, #000000, #1a1a1a);
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Merriweather', serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -269,4 +271,4 @@ section h3 {
 .contato-item p a:hover {
     color: #1e90ff;
     text-decoration: underline;
-} 
+}
